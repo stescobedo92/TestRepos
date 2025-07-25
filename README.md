@@ -1,2 +1,2 @@
 # TestRepos
-Ahora lo dejo como el principio
+Este es una resolucion del anterior que fue eun error
