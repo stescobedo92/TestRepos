@@ -1,2 +1,2 @@
 # TestRepos
-Este es un ejemplo de trabajo entre ramas
+Este es una resolucion del anterior que fue eun error
